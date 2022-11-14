@@ -1,4 +1,4 @@
-# Sacola-Api
+# Gatos-Aleatórios
 
 > Este é uma atividade para entender como funciona consumo de Api e criação de PWA
 
