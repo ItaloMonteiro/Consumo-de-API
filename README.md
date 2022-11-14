@@ -1,6 +1,6 @@
 # Gatos-Aleatórios
 
-> Este é uma atividade para entender como funciona consumo de Api e criação de PWA
+> Este é uma atividade para entender como funciona consumo de Api e criação de PWA, você pode visitar o site que foi hospedado no netlify: https://gatosaleatorios.netlify.app/
 
 ### Ajustes e melhorias
 
